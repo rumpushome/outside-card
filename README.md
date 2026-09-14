@@ -105,7 +105,7 @@ The card is one drawing that scales with its width, keeping its proportions
 
 **Card doesn't appear**
 The resource isn't loading. Check the URL and that the type is *JavaScript
-Module*. The browser console logs `OUTSIDE-CARD v1.0.0` when the card loads.
+Module*. The browser console logs `OUTSIDE-CARD v1.0.1` when the card loads.
 
 **Chart says "Not enough history yet"**
 The recorder has no history for the sensor. Check it isn't excluded in the
